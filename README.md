@@ -5,6 +5,7 @@
 
 ### How to use: 
 ./simplethemeswitcher <"theme-name">
+
 ./simplethemeswitcher list (to be implemented)
 
 
